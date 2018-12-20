@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGORock.Docking.Demo", "IGORock.Docking.Demo\IGORock.Docking.Demo.csproj", "{00F433A8-4B0F-4744-AF06-FE42F0EA40B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGORock.Docking", "IGORock.Docking\IGORock.Docking.csproj", "{164977B4-7774-4D3C-8030-8D80E06569D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F433A8-4B0F-4744-AF06-FE42F0EA40B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F433A8-4B0F-4744-AF06-FE42F0EA40B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F433A8-4B0F-4744-AF06-FE42F0EA40B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F433A8-4B0F-4744-AF06-FE42F0EA40B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164977B4-7774-4D3C-8030-8D80E06569D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164977B4-7774-4D3C-8030-8D80E06569D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164977B4-7774-4D3C-8030-8D80E06569D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164977B4-7774-4D3C-8030-8D80E06569D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04AFB5D9-2F5C-4DD9-90C9-9349DA95F652}
+	EndGlobalSection
+EndGlobal

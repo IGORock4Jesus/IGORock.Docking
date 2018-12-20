@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="IGORock.Docking.Tools.RightTool"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:IGORock.Docking.Tools"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="100"
+			 HorizontalAlignment="Right">
+    <Grid>
+		<Polygon Fill="#7FBDE0FF" Points="0,100, 100,0, 100,400, 0,300"
+				 Stroke="#FFF08989" StrokeThickness="5" />
+	</Grid>
+</UserControl>
